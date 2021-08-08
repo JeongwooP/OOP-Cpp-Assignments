@@ -1,4 +1,3 @@
-7장 1번 (2)
 #include <iostream>
 #include <string>
 using namespace std;
